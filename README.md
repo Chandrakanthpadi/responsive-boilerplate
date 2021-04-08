@@ -1,2 +1,14 @@
-# responsive-boilerplate
-This is a repository where you can clone and start building your responsive website.
+Follow the below order while writing the media queries
+
+css_selector{
+
+        //Styles for mobile
+
+    @include breakpoint-up(medium){
+        // Styles for tablets
+    }
+    @include breakpoint-up(large){
+        // Styles for laptops
+    }
+
+}
