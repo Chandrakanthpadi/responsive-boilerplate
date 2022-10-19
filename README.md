@@ -1,4 +1,4 @@
-###Frontend Responsive Boildeplate Code
+## Frontend Responsive Boildeplate Code
 
 A simple template with HTML, SASS and JS configured. To compile sass you can compile with vs code extension.
 
